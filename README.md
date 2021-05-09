@@ -1,0 +1,1 @@
+A repo for following ML examples and practices fromm Hands on Machine Learning book. 
